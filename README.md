@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Wikipedia on golang**
 
-- 🌱 I’m currently learning **golang frameworkds**
+- 🌱 I’m currently learning **golang frameworks**
 
 - 🤝 I’m looking for help with **golang basics**
 
