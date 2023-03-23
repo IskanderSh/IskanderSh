@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iskandersh&label=Profile%20views&color=0e75b6&style=flat" alt="iskandersh" /> </p>
 
-- 🔭 I’m currently working on **Wikipedia on golang**
+- 🔭 I’m currently working on [**Telegram bot on golang**](#https://github.com/IskanderSh/go-pocket-sdk)
 
 - 🌱 I’m currently learning **golang frameworks**
 
