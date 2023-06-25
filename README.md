@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Iskander</h1>
-<h3 align="center">A golang/c++/python backend developer/intern</h3>
+<h3 align="center">A golang backend developer/intern</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iskandersh&label=Profile%20views&color=0e75b6&style=flat" alt="iskandersh" /> </p>
 
 - 🔭 I’m currently working on **[Chat application](https://github.com/udborets/chat-app)** and **[route building service for WHOOSH](https://github.com/atomicai/whoosh)**
 
-- 🌱 I’m currently learning **golang websockets and gRPC**
+- 🌱 I’m currently learning **gRPC**
 
 - 🤝 I’m looking for help with **golang basics**
 
